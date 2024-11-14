@@ -1,0 +1,3 @@
+I have learned about the working style of github in collaborative projects
+I have learned how to set up repositories and syncing multiple people's work together to make a project
+Last but not the least I have learned about relying more on the command propmt
