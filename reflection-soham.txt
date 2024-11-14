@@ -1,0 +1,7 @@
+this time we learned a lot about using git hub 
+we could commit to same or differnet branches depending upon what we were working was same or spearate 
+at the ned we put pull requests to merge all branches in the main nranch and commited it 
+we reviewd a discrepancy and fixed it 
+
+this is really powerful tool to be used for making projects together as you can work on them without disrupting other people 
+at the end you acan review and merge everything to a single project which everyone can access and use 
